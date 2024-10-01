@@ -45,3 +45,5 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/masyanya_off)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/masyanyaa_off)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim2710&show_icons=true&theme=midnight-purple)
